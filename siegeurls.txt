@@ -1,3 +1,14 @@
 http://localhost:9080/town/1000000003
 http://localhost:9080/item/1027
 http://localhost:9080/building/152
+http://localhost:9080/class
+http://localhost:9080/manaclasses
+http://localhost:9080/phase
+http://localhost:9080/world
+http://localhost:9080/history/1000000000
+http://localhost:9080/date
+http://localhost:9080/effects
+http://localhost:9080/statistics/nation
+http://localhost:9080/statistics/fame
+http://localhost:9080/statistics/evilness
+http://localhost:9080/statistics/politic
